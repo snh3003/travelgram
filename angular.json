@@ -98,6 +98,16 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {
+            "prerender": false,
+            "ssr": false,
+            "browserTarget": "travelgram:build:production",
+            "firebaseProject": "travelgram22-81d69",
+            "firebaseHostingSite": "travelgram22-81d69"
+          }
         }
       }
     }

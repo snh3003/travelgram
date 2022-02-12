@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "travelgram22-81d69": {
+      "hosting": {
+        "travelgram": [
+          "travelgram22-81d69"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "travelgram22-81d69"
+  }
+}
