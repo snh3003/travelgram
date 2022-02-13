@@ -14,7 +14,7 @@ export const environment = {
     messagingSenderId: '863180324873',
     measurementId: 'G-8F53NSELL1',
   },
-  production: false
+  production: true, 
 };
 
 /*
